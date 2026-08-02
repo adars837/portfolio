@@ -1,3 +1,5 @@
+import adarshAvatar from '../assets/adarsh_profile.jpg';
+
 export const personalInfo = {
   name: "Adarsh Pandey",
   title: "Software Engineer | Full Stack Developer | Problem Solver",
@@ -11,7 +13,7 @@ export const personalInfo = {
   leetcode: "https://leetcode.com/u/2EEwyv6rtJ/",
   codeforces: "https://codeforces.com/profile/adarsh7624",
   resumeUrl: "#resume",
-  avatar: "/adarsh_profile.jpg",
+  avatar: adarshAvatar,
   batch: "NIT SILCHAR '27",
   typingRoles: [
     "Software Engineer",
